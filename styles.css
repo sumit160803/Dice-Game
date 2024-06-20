@@ -39,3 +39,16 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+#buttonItIs{
+  margin-top: 20px;
+  font-family: 'Lobster', cursive;
+  /* text-shadow: 5px 0 #232931; */
+  color: #4ECCA3;
+  background-color: #393E46;
+  font-size: large;
+
+  width: 150px;
+  height: 50px;
+
+}

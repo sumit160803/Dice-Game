@@ -53,3 +53,8 @@ else if(n2>n)
     document.querySelector("h1").innerHTML="Player 2 won";
 else   
 document.querySelector("h1").innerHTML="Draw";
+
+var clickMe = document.getElementById("buttonItIs");
+clickMe.onclick = function(){
+    location.reload();
+}
